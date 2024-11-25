@@ -1,5 +1,7 @@
 # ProjectEuler-Solutions
 
+![Language](https://img.shields.io/github/languages/top/RAVIwaves/ProjectEuler-Solutions)
+
 This repository contains solutions to problems from [Project Euler](https://projecteuler.net/), implemented in C++. Each solution is designed to efficiently solve a given problem and outputs the answer when executed.
 
 ## License
